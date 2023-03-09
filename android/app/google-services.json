@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011403695489",
+    "project_id": "hoangdonga-edu-baithi1",
+    "storage_bucket": "hoangdonga-edu-baithi1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011403695489:android:b86b07be4d199fe0a0f480",
+        "android_client_info": {
+          "package_name": "hoangdonga.edu.baithi1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011403695489-64vh4qma178e50chgan53s5p238m4hq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJdflYlcFxUSAj89EecMqUsNFYkzrAKpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011403695489-64vh4qma178e50chgan53s5p238m4hq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
